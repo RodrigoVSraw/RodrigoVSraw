@@ -14,13 +14,27 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 
 ## Cursos
 
-<p align="left">
-  <img src="https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CS50-A91101?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href=https://www.freecodecamp.org/learn>
+        <img width="170" height="auto" alt="freeCodeCamp logo" src="https://github.com/user-attachments/assets/6a9ab4d9-e813-4d9c-9a95-ab3d112607de" /><br>
+        <strong>freeCodeCamp</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">
+        <img width="165" height="auto" alt="CS50 logo" src="https://github.com/user-attachments/assets/3acd7551-89e9-414c-9021-41d402fed041" /><br>
+        <strong>CS50</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://devsuperior.com.br">
+        <img width="153" height="38" alt="image" src="https://github.com/user-attachments/assets/2dcce22f-d28f-47be-8dd0-1b279fc0581c" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring" /><br>
+        <strong>Intensivão JavaSpring</strong>
+</table>
 
 
 ## Estatísticas
