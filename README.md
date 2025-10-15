@@ -14,9 +14,9 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 
 ## Cursos
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/freecodecamp/freecodecamp-original.svg" height="50" alt="freeCodeCamp"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/harvard/harvard-original.svg" height="50" alt="CS50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"  />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/freecodecamp/freecodecamp-original.svg" height="50" alt="freeCodeCamp"  />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/harvard/harvard-original.svg" height="50" alt="CS50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" alt="Java"  />
 
 
 ## Estatísticas
