@@ -2,6 +2,16 @@
 
 **`Desenvolvedor FullStack`**
 
+## English
+
+Hello, my name is Rodrigo Raw. I am a Software Development student from Brazil, currently studying at Universidade Santa Cecília. I have a passion for building web applications and developing games.
+
+I have an easy time learning new technologies and adapting to new diverse challenges. My academic experience and personal projects consist in game creation, web development, and applying artificial intelligence on programs.
+
+ I am now currently seeking for opportunites to acquire experience as a developer, applying my knowledge to work in challenging projects.
+
+## Português
+
 Olá, meu nome é Rodrigo Vieira Santos Raw, sou um estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Santa Cecília, apaixonado por construir aplicações web e jogos.
 
 Tenho facilidade em aprender novas tecnologias e me adaptar a diferentes desafios. Minha experiência acadêmica e projetos pessoais envolvem a criação de jogos, o desenvolvimento de páginas web e a implementação de intêligencia artificial em programas.
@@ -9,10 +19,10 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 
 ---
 
-## Linguagens e Tecnologias 
+## Languages and Technologies(Linguagens e Tecnologias) 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,java,python,mysql" />
 
-## Cursos
+## Courses (Cursos)
 
 <table>
   <tr>
@@ -37,7 +47,7 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 </table>
 
 
-## Estatísticas
+## Stats (Estatísticas)
 
 <p>
   <img 
