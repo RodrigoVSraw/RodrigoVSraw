@@ -10,7 +10,7 @@ I have an easy time learning new technologies and adapting to new diverse challe
 
  I am now currently seeking for opportunites to acquire experience as a developer, applying my knowledge to work in challenging projects.
 
---
+---
    
 ### Português
 
