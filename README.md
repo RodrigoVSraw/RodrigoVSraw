@@ -10,7 +10,7 @@ Hello, my name is Rodrigo Raw. I am a Software Development student from Brazil, 
 
 I have an easy time learning new technologies and adapting to new diverse challenges. My academic experience and personal projects consist in game creation, web development, and applying artificial intelligence on programs.
 
- I am now currently seeking for opportunites to acquire experience as a developer, applying my knowledge to work in challenging projects.
+I am currently seeking opportunites to acquire experience as a developer, applying my knowledge to work in challenging projects.
 
 ---
    
@@ -18,7 +18,7 @@ I have an easy time learning new technologies and adapting to new diverse challe
 
 Olá, meu nome é Rodrigo Vieira Santos Raw, sou um estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Santa Cecília, apaixonado por construir aplicações web e jogos.
 
-Tenho facilidade em aprender novas tecnologias e me adaptar a diferentes desafios. Minha experiência acadêmica e projetos pessoais envolvem a criação de jogos, o desenvolvimento de páginas web e a implementação de intêligencia artificial em programas.
+Tenho facilidade em aprender novas tecnologias e me adaptar a diferentes desafios. Minha experiência acadêmica e projetos pessoais envolvem a criação de jogos, o desenvolvimento de páginas web e a implementação de inteligência artificial em programas.
 
 Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meus conhecimentos e contribuir em projetos desafiadores.
 
