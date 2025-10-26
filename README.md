@@ -1,6 +1,8 @@
 # Rodrigo Raw
 
-**`FullStack Developer(Desenvolvedor FullStack)`**
+**`FullStack Developer`**
+
+**`Desenvolvedor FullStack`**
 
 ### English
 
