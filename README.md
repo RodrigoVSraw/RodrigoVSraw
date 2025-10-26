@@ -25,7 +25,7 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 ---
 
 ## Languages and Technologies (Linguagens e Tecnologias) 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,cs,java,python,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,cs,java,python,mssqlserver" />
 
 ## Courses (Cursos)
 
