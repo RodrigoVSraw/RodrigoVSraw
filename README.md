@@ -11,6 +11,7 @@ I have an easy time learning new technologies and adapting to new diverse challe
 I am currently seeking opportunites to acquire experience as a developer, applying my knowledge to work in challenging projects.
 
 ---
+**`Desenvolvedor FullStack`**
    
 ### Português
 
