@@ -2,8 +2,6 @@
 
 **`FullStack Developer`**
 
-**`Desenvolvedor FullStack`**
-
 ### English
 
 Hello, my name is Rodrigo Raw. I am a Software Development student from Brazil, currently studying at Universidade Santa Cecília. I have a passion for building web applications and developing games.
