@@ -75,3 +75,7 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
     style="padding-right: 10px;" 
     src="https://github-stats.com/RodrigoVSraw"
     />
+    <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoVSraw&show_icons=true&theme=radical" alt="Estatísticas do Rodrigo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoVSraw&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+</div>
