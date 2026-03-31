@@ -23,7 +23,7 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 
 ---
 
-## 👨‍💻 Languages and Technologies (Linguagens e Tecnologias) 
+## Languages and Technologies (Linguagens e Tecnologias) 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" height="40px" align="left" style="padding-right: 10px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" height="40px" align="left" style="padding-right: 10px">
@@ -41,7 +41,7 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 <br/>
 <br/>
 
-## 📚 Courses (Cursos)
+## Courses (Cursos)
 
 <table>
   <tr>
@@ -65,7 +65,7 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
         <strong>Intensivão JavaSpring</strong>
 </table>
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p>
    <img
