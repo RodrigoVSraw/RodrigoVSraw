@@ -43,7 +43,7 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 
 ## Courses (Cursos)
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href=https://www.freecodecamp.org/learn>
@@ -68,6 +68,9 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoVSraw&show_icons=true&theme=radical" alt="Estatísticas do Rodrigo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoVSraw&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+
+[![Estatísticas do Rodrigo](https://github-readme-stats.vercel.app/api?username=RodrigoVSraw&show_icons=true&theme=radical)](https://github.com/RodrigoVSraw)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoVSraw&layout=compact&theme=radical)](https://github.com/RodrigoVSraw)
+
 </div>
