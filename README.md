@@ -70,13 +70,13 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 <p>
    <img
       align="left"
-      src="https://github-readme-stats.vercel.app/api?username=RodrigoVSraw&show_icons=true&theme=radical" alt="Estatísticas do Rodrigo"
+      src="https://github-readme-stats.vercel.app/api?username=RodrigoVSraw&show_icons=true&theme=radical" alt="Github Stats"
       />
 </p>
   <p>
      <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoVSraw&layout=compact&theme=radical" alt="Linguagens Mais Usadas"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoVSraw&layout=compact&theme=radical" alt="Most used languages"
         />
   </p>
   
