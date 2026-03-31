@@ -67,10 +67,17 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 
 ## 📊 Estatísticas
 
-<div>
+<p>
+   <img
+      align="left"
+      src="https://github-readme-stats.vercel.app/api?username=RodrigoVSraw&show_icons=true&theme=radical" alt="Estatísticas do Rodrigo"
+      />
+</p>
+  <p>
+     <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoVSraw&layout=compact&theme=radical" alt="Linguagens Mais Usadas"
+        />
+  </p>
+  
 
-[![Estatísticas do Rodrigo](https://github-readme-stats.vercel.app/api?username=RodrigoVSraw&show_icons=true&theme=radical)](https://github.com/RodrigoVSraw)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoVSraw&layout=compact&theme=radical)](https://github.com/RodrigoVSraw)
-
-</div>
