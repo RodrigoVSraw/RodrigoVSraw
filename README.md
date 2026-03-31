@@ -65,7 +65,7 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
         <strong>Intensivão JavaSpring</strong>
 </table>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -73,5 +73,5 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="
+    src="https://github-stats.com/RodrigoVSraw"
     />
