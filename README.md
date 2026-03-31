@@ -64,3 +64,14 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring" /><br>
         <strong>Intensivão JavaSpring</strong>
 </table>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="
+    />
