@@ -30,13 +30,15 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40px" align="left" style="padding-right: 10px">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="40px" align="left" style="padding-right: 10px">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" height="40px" align="left" style="padding-right: 10px">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Tools" title="Spring" height="40px" align="left" style="padding-right: 10px">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="40px" align="left" style="padding-right: 10px">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="40px" align="left" style="padding-right: 10px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="40px" align="left" style="padding-right: 10px">
 
 <br/>
 <br/>
