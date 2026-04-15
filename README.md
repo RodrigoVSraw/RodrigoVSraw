@@ -43,8 +43,6 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 <br/>
 <br/>
 
----
-
 ## Courses (Cursos)
 
 <table>
