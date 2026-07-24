@@ -67,7 +67,7 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
         <strong>Intensivão JavaSpring</strong>
 </table>
 
-## Estatísticas
+## Stats (Estatísticas)
 
 <p align="left">
   <img src="https://meu-github-stats-eight.vercel.app/api?username=RodrigoVSraw&show_icons=true&theme=radical&title_color=ee6409&ring_color=ee6409&text_color=ffffff" alt="Github Stats" />
