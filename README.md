@@ -40,6 +40,8 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="40px" align="left" style="padding-right: 10px">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="40px" align="left" style="padding-right: 10px">
+
 <br/>
 <br/>
 
