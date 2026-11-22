@@ -6,9 +6,9 @@
 
 Hello, my name is Rodrigo Raw. I am a Software Development student from Brazil, currently studying at Universidade Santa Cecília. I have a passion for building web applications and developing games.
 
-I have an easy time learning new technologies and adapting to new diverse challenges. My academic experience and personal projects consist in game creation, web development, and applying artificial intelligence on programs.
+I have an easy time learning new technologies and adapting to new diverse challenges. My academic experience and personal projects consist of game creation, web development, and applying artificial intelligence in programs.
 
-I am currently seeking opportunites to acquire experience as a developer, applying my knowledge to work in challenging projects.
+I am currently seeking opportunities to acquire experience as a developer, applying my knowledge to work in challenging projects.
 
 ---
 **`Desenvolvedor FullStack`**
