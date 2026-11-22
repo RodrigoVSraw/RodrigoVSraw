@@ -1,25 +1,24 @@
 # Rodrigo Raw
 
-**`FullStack Developer`**
+`Full Stack Developer & AI`
 
 ### English
+Hi, I'm Rodrigo Raw. I'm a Systems Analysis and Development (ADS) student at Universidade Santa Cecília in Brazil, and I really enjoy building web applications, exploring Artificial Intelligence, and creating games.
 
-Hello, my name is Rodrigo Raw. I am a Software Development student from Brazil, currently studying at Universidade Santa Cecília. I have a passion for building web applications and developing games.
+I learn new technologies quickly and like getting my hands dirty with different kinds of challenges. Lately, I've been working on Full Stack projects and integrating AI into real applications — like **POSEIDON SYNC** (Porto Hack 2025 finalist) and **Nexus IA**, a personal project where I'm combining Java, Python, and SQL.
 
-I have an easy time learning new technologies and adapting to new diverse challenges. My academic experience and personal projects consist of game creation, web development, and applying artificial intelligence in programs.
-
-I am currently seeking opportunities to acquire experience as a developer, applying my knowledge to work in challenging projects.
+Right now, I'm looking for opportunities to gain real-world experience, put what I've been studying into practice, and contribute to interesting projects.
 
 ---
-**`Desenvolvedor FullStack`**
-   
+
+`Desenvolvedor Full Stack & IA`
+
 ### Português
+Olá, meu nome é Rodrigo Vieira Santos Raw. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Santa Cecília e gosto muito de construir aplicações web, trabalhar com Inteligência Artificial e criar jogos.
 
-Olá, meu nome é Rodrigo Vieira Santos Raw, sou um estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Santa Cecília, apaixonado por construir aplicações web e jogos.
+Tenho facilidade para aprender tecnologias novas e me adaptar a desafios diferentes. Meus projetos acadêmicos e pessoais envolvem desenvolvimento Full Stack e integração de IA na prática — como o **POSEIDON SYNC** (finalista do Porto Hack 2025) e o **Nexus IA**, onde venho unindo Java, Python e SQL.
 
-Tenho facilidade em aprender novas tecnologias e me adaptar a diferentes desafios. Minha experiência acadêmica e projetos pessoais envolvem a criação de jogos, o desenvolvimento de páginas web e a implementação de inteligência artificial em programas.
-
-Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meus conhecimentos e contribuir em projetos desafiadores.
+Atualmente, busco oportunidades para ganhar experiência no mercado, colocar em prática o que venho estudando e contribuir em projetos desafiadores.
 
 ---
 
