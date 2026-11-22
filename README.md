@@ -72,7 +72,5 @@ Atualmente, busco oportunidades para ganhar experiência no mercado, aplicar meu
 ## Stats (Estatísticas)
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=RodrigoVSraw&show_icons=true&theme=radical&title_color=ee6409&ring_color=ee6409&text_color=ffffff" alt="Github Stats" />
-  &nbsp;&nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RodrigoVSraw&layout=compact&theme=radical&title_color=ee6409&text_color=ffffff" alt="Top Languages" />
 </p>
