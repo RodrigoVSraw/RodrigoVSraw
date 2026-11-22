@@ -5,7 +5,7 @@
 ### English
 Hi, I'm Rodrigo Raw. I'm a Systems Analysis and Development (ADS) student at Universidade Santa Cecília in Brazil, and I really enjoy building web applications, exploring Artificial Intelligence, and creating games.
 
-I learn new technologies quickly and like getting my hands dirty with different kinds of challenges. Lately, I've been working on Full Stack projects and integrating AI into real applications — like **POSEIDON SYNC** (Porto Hack 2025 finalist) and **Nexus IA**, a personal project where I'm combining Java, Python, and SQL.
+I learn new technologies quickly and like getting challenged. Lately, I've been working on Full Stack projects and integrating AI into real applications — like **POSEIDON SYNC** (Porto Hack 2025 finalist) and **Nexus IA**, a personal project where I'm combining Java, Python, and SQL.
 
 Right now, I'm looking for opportunities to gain real-world experience, put what I've been studying into practice, and contribute to interesting projects.
 
